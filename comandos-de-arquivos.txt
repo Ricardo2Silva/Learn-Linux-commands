@@ -1,0 +1,58 @@
+1 - Para descobrir em qual diretorio voce esta
+
+* pwd
+
+2 - Para descobrir quais arquivos e diretorios tem no path, o terminal ele pinta de azul o que é diretorio/pasta 
+
+* ls
+
+3 -  Para imprimir algo no terminal utilizamos 
+
+* echo
+
+4 - redirecionando o echo para outro arquivo 
+
+* >
+
+ex: echo "Bem vindo ao terminal" > bemvindo.txt
+
+
+5 - Para ler um arquvo no terminal,recebe o arquivo como argumento e imprime seu conteudo no terminal
+
+* cat + nome do arquivo
+
+ex: cat bemvindo.txt
+
+6 - Limpar o terminal
+
+* clear
+atalho Ctrl + L
+
+7 - para listar os arquivos de forma detalhada
+
+* ls -l
+
+ex: drwxr-r diretorio
+    rw-rw-r nao diretorio
+
+8 - para listar todos os arquivos inclusive os ocultos
+* todos arquivos ocultos começam com um ponto
+
+ex: .Xauthority
+
+9- para entender mais sobre determinado comando utilizamos
+
+* man
+
+ex: quero saber como usar o comando ls
+
+ - man ls
+
+10 - o comando whoami retorna o nome do usuario que esta sendo usado
+
+* whoami
+
+11 - quando utilizamos o > para criar e imprimir dentro do arquivo, se fizermos o processo novamente ele sobreescreve o conteudo,
+para isso nao acontecer usamos >>
+
+ex: echo "Adicione mais um" >> bemvindo.txt

@@ -1,0 +1,13 @@
+1 - mudando de diretorio
+
+* cd + nome do diretorio
+
+
+2 - voltar diretorio
+
+* cd ..
+
+3 -  criar diretorio
+
+* mkdir + nome do diretorio
+

@@ -1,0 +1,20 @@
+1- copiando mensagem para outro arquivo
+
+cp + arquivo de origem + arquivo de destino
+
+nesse exemplo ele copia o conteudo do arquivo de origem e cria o segundo arquivo já com o conteudo de origem
+
+
+2- renomeando arquivo
+
+mv + arquivo de origem + arquivo modificado
+
+
+3- movendo arquivo para outra pasta
+
+mv + arquivo de origem + destino pasta/
+
+
+4- copiando diretorio para outro
+
+cp -r  + diretorio origem diretorio destino

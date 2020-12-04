@@ -1,0 +1,31 @@
+1 - para remover diretorios utilizamos
+
+*  rmdir + nome do diretorio
+só funciona se estiver vazio,senao utilizamos a abordagem na linha 25
+
+
+2- para remover arquivo utilizamos
+
+* rm + nome do arquivo
+
+Caracteres especiais
+
+-quando utilizamos o ? estamos dizendo que quero ler um arquivo que tenha um caractere qualquer
+
+ex: cat bemvindo?.txt
+
+-quando utilizamos  o * estamos dizendo que quero ler todos os arquivos que tenha qualquer quantidade de caractere
+
+ex: cat bemvindo*.txt
+
+
+outra abordagem que podemos utilizar é cat *.txt, ele vai identificar  todos arquivos txt e fazer a leitura
+
+
+3- para remover tudo de uma vez utilizamos
+
+*rm -r  + nome do diretorio
+
+basicamente o comando diz, olha, entre nesse diretorio e sai apagando todo mundo
+
+ele apaga todos os arquivos e remove o diretorio,

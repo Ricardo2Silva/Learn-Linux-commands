@@ -1,0 +1,13 @@
+para compactar um arquivo utilizamos 
+
+zip -r + nome do zip + arquivo a ser compactado
+
+
+para descompactar um arquivo utilizamos
+
+unzip  + nome do zip
+
+unzip -q + nome do zip
+ele descompacta tudo sem mostrar as informaçoes
+
+
